@@ -43,9 +43,9 @@ hr {
 
 a, header #header h1 a, article .title a, article .meta .tags a, article .divider a {
   text-decoration: none;
-  color: #bb2222; }
+  color: #008080; }
   a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
-    color: #dd1144; }
+    color: #008040; }
 
 blockquote, pre code {
   background-color: #f8f8f8;
