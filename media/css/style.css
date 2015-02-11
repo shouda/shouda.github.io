@@ -52,8 +52,8 @@ strong {
 
 blockquote, pre code {
   background-color: #f0f0f0;
-  padding: 0 1em;
-  border-left: 5px dashed #e0e0e0 !important;
+  padding: 0.5em 1em 0.5em 1em;
+  border-left: 5px solid #e0e0e0 !important;
   border-color: #e0e0e0 !important;
   font-size: 13px;
   line-height: 1.6;
