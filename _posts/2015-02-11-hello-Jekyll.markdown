@@ -6,6 +6,8 @@ tags:
 
 ---
 
+local 沒必要安裝 jekyll 了，只要寫好 markdown，然後 git add, git commit, git push 就 ok 了！
+
 ref:
 
 * [Git+GitHub+Markdown+Jekyll=Perfect Personal Blog – 程序员说](http://www.devtalking.com/articles/git-gitHub-markdown-jekyll/)
