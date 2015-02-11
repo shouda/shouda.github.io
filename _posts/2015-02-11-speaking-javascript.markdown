@@ -1,5 +1,5 @@
 ---
-title:  "Hello GitHub Pages and Jekyll!"
+title:  "Speaking JavaScript"
 layout: post
 tags:
     - book
