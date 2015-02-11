@@ -74,9 +74,13 @@ header {
 ul.listing {
   margin-top: 1em;
   li {
-    padding: 0;
-    &.listing-item { a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
+    &.listing-item {
+      padding: 0;
+      list-style-type:none;
+      a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; }
+    }
     &.listing-seperator {
+      padding: 0;
       list-style-type:none;
       font-family: #{$label-font};
       &:before { content: "⭠ "; color: #ccc; }

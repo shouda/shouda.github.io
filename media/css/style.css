@@ -105,20 +105,22 @@ header {
 
 ul.listing {
   margin-top: 1em; }
-  ul.listing li {
-    padding: 0; }
+  ul.listing li.listing-item {
+    padding: 0;
+    list-style-type: none; }
     ul.listing li.listing-item a, ul.listing li.listing-item header #header h1 a, header #header h1 ul.listing li.listing-item a {
       padding: .2em 0 .2em 2em; }
     ul.listing li.listing-item time {
       color: #999; }
     ul.listing li.listing-item:hover {
       background-color: #f9f9f9; }
-    ul.listing li.listing-seperator {
-      list-style-type: none;
-      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
-      ul.listing li.listing-seperator:before {
-        content: "⭠ ";
-        color: #ccc; }
+  ul.listing li.listing-seperator {
+    padding: 0;
+    list-style-type: none;
+    font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
+    ul.listing li.listing-seperator:before {
+      content: "⭠ ";
+      color: #ccc; }
 
 article {
   margin: 2em 0; }
