@@ -1,5 +1,5 @@
 ---
-title:  "Hello Github pages and Jekyll!"
+title:  "Hello GitHub Pages and Jekyll!"
 layout: post
 tags:
     - blog
