@@ -7,7 +7,7 @@ layout: default
   {% for post in site.posts limit: 1 %}
   <article class="content">
     <section class="title">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}"><i class="fa fa-bookmark-o"></i> {{ post.title }}</a></h2>
     </section>
     <section class="meta">
     <span class="time">
