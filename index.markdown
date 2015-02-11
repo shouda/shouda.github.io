@@ -24,7 +24,7 @@ layout: default
     <section class="post">
     {{ post.content }}
     </section>
-    </article>
+  </article>
   {% endfor %}
   </ul>
   <div class="divider"></div>
