@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Minimalist | Coder
 
 who involved in
 
@@ -13,6 +13,6 @@ who involved in
 
 or follow
 
-> [@o_lll](https://twitter.com/#!/shouda)
+> [@shouda](https://twitter.com/#!/shouda)
 
 to reach me
