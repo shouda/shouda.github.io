@@ -6,7 +6,7 @@ tags:
 
 ---
 
-local 沒必要安裝 jekyll 了，只要寫好 markdown，然後 git add, git commit, git push 就 ok 了！
+一直以為 local 要安裝 jekyll 來輸出靜態網頁，原來只要目錄檔案結構有對好，以後寫好 markdown，然後 git add, git commit, git push 就 ok 了！
 
 ref:
 
