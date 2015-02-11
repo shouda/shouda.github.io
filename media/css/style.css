@@ -120,7 +120,7 @@ ul.listing {
     list-style-type: none;
     font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
     ul.listing li.listing-seperator:before {
-      content: "⭠ ";
+      content: "⊡ ";
       color: #ccc; }
 
 article {
