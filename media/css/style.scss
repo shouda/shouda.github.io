@@ -74,10 +74,13 @@ header {
 ul.listing {
   margin-top: 1em;
   li {
-    list-style-type:none;
     padding: 0;
     &.listing-item { a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; } }
-    &.listing-seperator { font-family: #{$label-font}; &:before { content: "⭠ "; color: #ccc; } }
+    &.listing-seperator {
+      list-style-type:none;
+      font-family: #{$label-font};
+      &:before { content: "⭠ "; color: #ccc; }
+    }
   }
 }
 
@@ -99,7 +102,6 @@ article {
 
   .post {
     img { max-width: #{$page-width}px; display: block; margin: .5em auto; }
-    li { list-style-type:initial; }
   }
 
   .comment { margin: 3em 0; }
