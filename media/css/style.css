@@ -102,8 +102,6 @@ header {
   line-height: 2em; }
   #content .main-listing {
     margin-bottom: 2em; }
-  #content li {
-    list-style-type: initial; }
 
 ul.listing {
   margin-top: 1em; }
@@ -142,6 +140,8 @@ article {
     max-width: 800px;
     display: block;
     margin: .5em auto; }
+  article .post li {
+    list-style-type: initial; }
   article .comment {
     margin: 3em 0; }
   article .divider {

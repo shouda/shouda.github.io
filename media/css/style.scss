@@ -69,9 +69,6 @@ header {
   @include page;
   line-height: 2em;
   .main-listing { margin-bottom: 2em; }
-  li {
-    list-style-type:initial;
-  }
 }
 
 ul.listing {
@@ -100,7 +97,10 @@ article {
     .tags a { @extend a; color: #999999; padding: .25em; }
   }
 
-  .post { img { max-width: #{$page-width}px; display: block; margin: .5em auto; } }
+  .post {
+    img { max-width: #{$page-width}px; display: block; margin: .5em auto; }
+    li { list-style-type:initial; }
+  }
 
   .comment { margin: 3em 0; }
   .divider {
