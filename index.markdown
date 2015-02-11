@@ -24,10 +24,7 @@ layout: default
     <section class="post">
     {{ post.content }}
     </section>
-    <div class="divider">
-      <i class="fa fa-circle"></i>
-      <a href="{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
-    </div>
+    <div class="divider"> <i class="fa fa-circle"></i> </div>
   </article>
   {% endfor %}
   </ul>
