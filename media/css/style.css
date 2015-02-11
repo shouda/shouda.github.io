@@ -45,7 +45,7 @@ a, header #header h1 a, article .title a, article .meta .tags a, article .divide
   text-decoration: none;
   color: #008080; }
   a:hover, header #header h1 a:hover, article .title a:hover, article .meta .tags a:hover, article .divider a:hover {
-    color: #008040; }
+    color: #00b3b3; }
 
 blockquote, pre code {
   background-color: #f0f0f0;
