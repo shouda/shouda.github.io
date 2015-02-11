@@ -69,6 +69,9 @@ header {
   @include page;
   line-height: 2em;
   .main-listing { margin-bottom: 2em; }
+  li {
+    list-style-type:initial;
+  }
 }
 
 ul.listing {
