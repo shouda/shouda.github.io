@@ -139,10 +139,12 @@ article {
     article .meta .tags header #header h1 a, header #header h1 article .meta .tags a, article .meta .tags a {
       color: #999999;
       padding: .25em; }
-  article .post img {
-    max-width: 800px;
-    display: block;
-    margin: .5em auto; }
+  article .post {
+    margin-top: 1em; }
+    article .post img {
+      max-width: 800px;
+      display: block;
+      margin: .5em auto; }
   article .comment {
     margin: 3em 0; }
   article .divider {
