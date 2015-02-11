@@ -1,7 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "shouda"
 markdown: rdiscount
 
 author: "shouda"
