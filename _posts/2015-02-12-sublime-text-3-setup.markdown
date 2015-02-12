@@ -43,6 +43,7 @@ setting:
 * [JavaScriptNext - ES6 Syntax](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
 * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions)
 * [AngularJS](https://packagecontrol.io/packages/AngularJS)
+* [Ionic Framework Snippets](https://packagecontrol.io/packages/Ionic%20Framework%20Snippets)
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
 
 setting:
