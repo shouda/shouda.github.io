@@ -88,4 +88,5 @@ ref:
 
 * [Sublime Text 3 Guide: Tips, Tricks, and Shortcuts](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/)
 * [Top tips (for Sublime Text, Sass, CSS, Terminal and more)](http://benfrain.com/top-tips-selection-unrelated-front-end-developer-tips/)
+* [How I use Sublime Text 3](http://perso.crans.org/besson/sublimetext.en.html)
 * [Sublime Text for Front End Developers](http://css-tricks.com/sublime-text-front-end-developers/)
