@@ -19,10 +19,13 @@ tags:
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
 keybind:
+
 ```javascript
 { "keys": ["ctrl+shift+g"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} }
 ```
+
 setting:
+
 ```javascript
 {
     "parser": "github",
@@ -30,6 +33,7 @@ setting:
     "strip_yaml_front_matter": true,
 }
 ```
+
 * [Emmet](https://packagecontrol.io/packages/Emmet)
 * [CSS3](https://packagecontrol.io/packages/CSS3)
 * [SCSS](https://packagecontrol.io/packages/SCSS)
@@ -38,6 +42,7 @@ setting:
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
 
 setting:
+
 ```javascript
 {
     "env":
@@ -62,6 +67,7 @@ setting:
     "autocomplete_suggest_imports": true
 }
 ```
+
 * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
 * [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 * [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)
