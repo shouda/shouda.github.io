@@ -78,6 +78,7 @@ setting:
 * [SublimeLinter-shellcheck](https://packagecontrol.io/packages/SublimeLinter-shellcheck)
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [Unquote](https://packagecontrol.io/packages/Unquote)
+* [DashDoc](https://packagecontrol.io/packages/DashDoc)
 
 有兩個 packages 暫時放著，先不裝回去：
 
