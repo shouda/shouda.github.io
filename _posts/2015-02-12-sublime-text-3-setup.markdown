@@ -41,6 +41,7 @@ setting:
 * [SCSS](https://packagecontrol.io/packages/SCSS)
 * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 * [JavaScriptNext - ES6 Syntax](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
+* [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions)
 * [AngularJS](https://packagecontrol.io/packages/AngularJS)
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
 
