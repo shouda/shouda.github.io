@@ -39,6 +39,7 @@ setting:
 * [Emmet](https://packagecontrol.io/packages/Emmet)
 * [CSS3](https://packagecontrol.io/packages/CSS3)
 * [SCSS](https://packagecontrol.io/packages/SCSS)
+* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 * [JavaScriptNext - ES6 Syntax](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
 * [AngularJS](https://packagecontrol.io/packages/AngularJS)
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
@@ -75,6 +76,7 @@ setting:
 * [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)
 * [SublimeLinter-ruby](https://packagecontrol.io/packages/SublimeLinter-ruby)
 * [SublimeLinter-shellcheck](https://packagecontrol.io/packages/SublimeLinter-shellcheck)
+* [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [Unquote](https://packagecontrol.io/packages/Unquote)
 
 有兩個 packages 暫時放著，先不裝回去：
