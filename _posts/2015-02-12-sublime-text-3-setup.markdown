@@ -17,6 +17,7 @@ tags:
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 * [Git](https://packagecontrol.io/packages/Git)
 * [GitGutter](https://packagecontrol.io/packages/GitGutter)
+* [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
 keybind:
