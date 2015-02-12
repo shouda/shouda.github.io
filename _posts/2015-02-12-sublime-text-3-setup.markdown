@@ -13,6 +13,7 @@ tags:
 * 回復舊的設定檔 ( [Preferences.sublime-settings](https://gist.github.com/shouda/183040a0d5d13d7e6a31) )
 
 然後一一把其餘的 packages 裝回去
+
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 * [Git](https://packagecontrol.io/packages/Git)
 * [GitGutter](https://packagecontrol.io/packages/GitGutter)
