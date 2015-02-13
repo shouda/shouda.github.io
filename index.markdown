@@ -24,7 +24,15 @@ layout: default
     <section class="post">
     {{ post.content }}
     </section>
-    <div class="divider"> <i class="fa fa-circle"></i> </div>
+    <div class="divider">
+      <span> <i class="fa fa-circle"></i> </span>
+      <span>
+        {% for post in site.posts offset:1 %}
+        <a href="{{ post.url }}"><i class="fa fa-chevron-right"></i></a>
+        {% break %}
+        {% endfor %}
+      </span>
+    </div>
   </article>
   {% endfor %}
   </ul>
