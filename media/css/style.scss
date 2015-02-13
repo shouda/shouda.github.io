@@ -18,7 +18,7 @@ $page-width: 800;
 $font: $font-name, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 $monospace: $mono-font-name, monospace;
 $label-font: $font-name, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-$background-color: rbga(230, 230, 230, 0.75);
+$background-color: #e6e6e6;
 
 @mixin page($width: $page-width) { width: #{$width}px; margin: 0 auto; }
 
