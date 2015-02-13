@@ -8,6 +8,6 @@ tags:
 
 * [Introduction to Gulp.js 1: Intro and Setup](http://stefanimhoff.de/2014/gulp-tutorial-1-intro-setup/)
 
-<blockquote>I am sick of all these Hello World tutorials spreading around the Internet, describing just the basics and don’t show a whole process, go deeper or share things learned during the process.</blockquote>
+> I am sick of all these Hello World tutorials spreading around the Internet, describing just the basics and don’t show a whole process, go deeper or share things learned during the process.
 
 這是一系列總共有十五篇文章，看了真的學到了 gulp.js 要怎麼組合運用。
