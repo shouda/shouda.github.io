@@ -114,12 +114,12 @@ article {
   .divider {
     margin: 2em 0;
 
-    i { margin: 0 2em; color: #e9e9e9; }
+    i { margin: 0 2em; color: #dfd9d9; }
 
     a { @extend a;
       font-family: #{$label-font};
       margin: 0 2em;
-      i { color: #d6cfcf; margin: 0; &:hover { color: #bb2222 !important; } }
+      i { color: #c4baba; margin: 0; &:hover { color: #bb2222 !important; } }
     }
   }
   .divider {
