@@ -26,14 +26,14 @@ $background-color: #e8e4e4;
 body { font-size: 14px; font-family: #{$font}; color: #555; background-color: $background-color; }
 ol, ul { list-style-position: inside; }
 li { padding: .2em 0; list-style-type:circle; }
-hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1px dashed #f9f9f9; }
+hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1px dashed #eee; }
 .center { text-align: center; }
-::selection { color: #f8f8f8; background-color: #333; }
+::selection { color: #eee; background-color: #333; }
 a { text-decoration: none; color: #008080; &:hover { color: lighten(#008080, 10%); }; }
 strong { color: #804000; }
-blockquote { background-color: #f8f8f8; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #e0e0e0 !important; border-color: #e0e0e0 !important; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
+blockquote { background-color: #eee; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #c9c9c9 !important; border-color: #c9c9c9 !important; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
-code { background-color: #f8f8f8; padding: 2px 5px; border: 1px dashed #e0e0e0; font-family: #{$monospace}; }
+code { background-color: #eee; padding: 2px 5px; border: 1px dashed #c9c9c9; font-family: #{$monospace}; }
 h1, h2 { font-size: 1.4em; }
 time { font-family: #{$monospace}; }
 
@@ -78,7 +78,7 @@ ul.listing {
     &.listing-item {
       padding: 0;
       list-style-type: none;
-      a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #f9f9f9; }
+      a { padding: .2em 0 .2em 2em; } time { color: #999; } &:hover { background-color: #eee; }
     }
     &.listing-seperator {
       padding: 0;

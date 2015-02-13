@@ -32,13 +32,13 @@ hr {
   width: 4em;
   border: none;
   border-top: 1px dashed #d0d0d0;
-  border-bottom: 1px dashed #f9f9f9; }
+  border-bottom: 1px dashed #eee; }
 
 .center {
   text-align: center; }
 
 ::selection {
-  color: #f8f8f8;
+  color: #eee;
   background-color: #333; }
 
 a, header #header h1 a, article .title a, article .meta .tags a, article .divider a {
@@ -51,19 +51,19 @@ strong {
   color: #804000; }
 
 blockquote, pre code {
-  background-color: #f8f8f8;
+  background-color: #eee;
   padding: 0.5em 1em 0.5em 1.25em;
-  border-left: 5px solid #e0e0e0 !important;
-  border-color: #e0e0e0 !important;
+  border-left: 5px solid #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
   font-size: 13px;
   line-height: 1.6;
   display: block;
   overflow: auto; }
 
 code {
-  background-color: #f8f8f8;
+  background-color: #eee;
   padding: 2px 5px;
-  border: 1px dashed #e0e0e0;
+  border: 1px dashed #c9c9c9;
   font-family: Ubuntu, monospace; }
 
 h1, h2 {
@@ -117,7 +117,7 @@ ul.listing {
     ul.listing li.listing-item time {
       color: #999; }
     ul.listing li.listing-item:hover {
-      background-color: #f9f9f9; }
+      background-color: #eee; }
   ul.listing li.listing-seperator {
     padding: 0;
     list-style-type: none;
