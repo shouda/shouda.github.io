@@ -28,10 +28,10 @@ ol, ul { list-style-position: inside; }
 li { padding: .2em 0; list-style-type:circle; }
 hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1px dashed #f9f9f9; }
 .center { text-align: center; }
-::selection { color: #fff; background-color: #333; }
+::selection { color: #f8f8f8; background-color: #333; }
 a { text-decoration: none; color: #008080; &:hover { color: lighten(#008080, 10%); }; }
 strong { color: #804000; }
-blockquote { background-color: #f0f0f0; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #e0e0e0 !important; border-color: #e0e0e0 !important; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
+blockquote { background-color: #f8f8f8; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #e0e0e0 !important; border-color: #e0e0e0 !important; font-size: 13px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
 code { background-color: #f8f8f8; padding: 2px 5px; border: 1px dashed #e0e0e0; font-family: #{$monospace}; }
 h1, h2 { font-size: 1.4em; }
