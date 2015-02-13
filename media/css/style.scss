@@ -119,7 +119,7 @@ article {
     a { @extend a;
       font-family: #{$label-font};
       margin: 0 2em;
-      i { color: #dfd9d9; margin: 0; &:hover { color: #bb2222 !important; } }
+      i { color: #d6cfcf; margin: 0; &:hover { color: #bb2222 !important; } }
     }
   }
   .divider {
