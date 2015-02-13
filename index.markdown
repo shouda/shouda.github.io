@@ -26,9 +26,8 @@ layout: default
     </section>
     <div class="divider">
       <span>
-        {% for post in site.posts offset:1 %}
+        {% for post in site.posts limit:1 offset:1 %}
         <a href="{{ post.url }}"><i class="fa fa-chevron-left"></i></a>
-        {% break %}
         {% endfor %}
       </span>
       <span> <i class="fa fa-circle"></i> </span>
