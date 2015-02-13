@@ -25,13 +25,13 @@ layout: default
     {{ post.content }}
     </section>
     <div class="divider">
-      <span> <i class="fa fa-circle"></i> </span>
       <span>
         {% for post in site.posts offset:1 %}
-        <a href="{{ post.url }}"><i class="fa fa-chevron-right"></i></a>
+        <a href="{{ post.url }}"><i class="fa fa-chevron-left"></i></a>
         {% break %}
         {% endfor %}
       </span>
+      <span> <i class="fa fa-circle"></i> </span>
     </div>
   </article>
   {% endfor %}
