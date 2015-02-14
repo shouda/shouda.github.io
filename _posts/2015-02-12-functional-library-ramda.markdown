@@ -3,6 +3,7 @@ title:  "Functional Library: Ramda"
 layout: post
 tags:
     - book
+    - functional
     - javascript
 
 ---
