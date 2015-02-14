@@ -2,6 +2,7 @@
 title:  "AngularJS 1.3 新功能系列介紹"
 layout: post
 tags:
+    - angularjs
     - javascript
 
 ---

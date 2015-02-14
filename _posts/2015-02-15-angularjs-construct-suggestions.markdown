@@ -2,6 +2,7 @@
 title:  "AngularJS 程式架構的思考與建議"
 layout: post
 tags:
+    - angularjs
     - javascript
 
 ---

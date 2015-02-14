@@ -3,6 +3,7 @@ title:  "Sublime Text 3 Setup"
 layout: post
 tags:
     - editor
+    - workflow
 
 ---
 

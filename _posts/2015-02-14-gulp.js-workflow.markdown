@@ -3,6 +3,7 @@ title:  "Gulp.js Workflow"
 layout: post
 tags:
     - javascript
+    - workflow
 
 ---
 
