@@ -23,9 +23,8 @@ tags:
 
 書中也談到美國歷史教科書的編寫與採用的過程，這是作者本身的研究領域。
 
-中國版的作者序：[当我谈美国历史时，我谈些什么](http://book.douban.com/review/2807206/)
-
 ref:
 
+* 中國版的作者序：[当我谈美国历史时，我谈些什么](http://book.douban.com/review/2807206/)
 * [美国学生为何讨厌历史课？](http://lz.book.sohu.com/fullscreen-chapter-656988.html)
 * [老师的谎言——美国历史教育的另一面](http://opinion.m4.cn/2012-12/1200443.shtml)
