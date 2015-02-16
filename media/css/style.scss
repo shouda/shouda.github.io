@@ -24,7 +24,7 @@ $background-color: #e8e4e4;
 
 * { margin: 0; padding: 0; }
 body { font-size: 14px; font-family: #{$font}; color: #555; background-color: $background-color; }
-ol, ul { list-style-position: inside; }
+ul { list-style-position: inside; }
 li { padding: .2em 0; list-style-type:circle; }
 hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1px dashed #eee; }
 .center { text-align: center; }

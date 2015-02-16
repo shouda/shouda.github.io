@@ -21,7 +21,7 @@ body {
   color: #555;
   background-color: #e8e4e4; }
 
-ol, ul {
+ul {
   list-style-position: inside; }
 
 li {
