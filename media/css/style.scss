@@ -28,6 +28,10 @@ ul {
   list-style-position: inside;
   li { padding: .2em 0; list-style-type: circle; }
 }
+ol {
+  list-style-position: inside;
+  li { padding: .2em 0; }
+}
 hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1px dashed #eee; }
 .center { text-align: center; }
 ::selection { color: #eee; background-color: #333; }
