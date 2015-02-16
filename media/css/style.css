@@ -23,10 +23,9 @@ body {
 
 ul {
   list-style-position: inside; }
-
-li {
-  padding: .2em 0;
-  list-style-type: circle; }
+  ul li {
+    padding: .2em 0;
+    list-style-type: circle; }
 
 hr {
   width: 4em;
