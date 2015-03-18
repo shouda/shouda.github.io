@@ -65,7 +65,7 @@ header {
     display: inline-block;
     position: relative;
     top: 1em;
-    span { margin: .5em; }
+    span { margin: .5em .75em .5em .75em; }
     a {
       font-family: #{$label-font}; color: #ccc;
     }
