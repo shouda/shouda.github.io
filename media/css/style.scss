@@ -15,9 +15,9 @@
 $font-name: "telexregular";
 $mono-font-name: "Ubuntu";
 $page-width: 800;
-$font: $font-name, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+$font: $font-name, "Heiti TC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
 $monospace: $mono-font-name, monospace;
-$label-font: $font-name, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+$label-font: $font-name, "Heiti TC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
 $background-color: #e8e4e4;
 
 @mixin page($width: $page-width) { width: #{$width}px; margin: 0 auto; }

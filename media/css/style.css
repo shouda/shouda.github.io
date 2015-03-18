@@ -17,7 +17,7 @@
 
 body {
   font-size: 18px;
-  font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+  font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
   color: #555;
   background-color: #e8e4e4; }
 
@@ -90,7 +90,7 @@ header {
     position: relative;
     top: 1em; }
     header #header h1 {
-      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
+      font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif; }
       header #header h1 a {
         color: #a9a9a9;
         display: block; }
@@ -101,7 +101,7 @@ header {
     header nav span {
       margin: .5em .75em .5em .75em; }
     header nav a, header nav #header h1 a, header #header h1 nav a, header nav article .title a, article .title header nav a, header nav article .meta .tags a, article .meta .tags header nav a, header nav article .divider a, article .divider header nav a {
-      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+      font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
       color: #ccc; }
 
 #content {
@@ -125,7 +125,7 @@ ul.listing {
   ul.listing li.listing-seperator {
     padding: 0;
     list-style-type: none;
-    font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
+    font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif; }
     ul.listing li.listing-seperator:before {
       content: "⊡ ";
       color: #ccc; }
@@ -135,7 +135,7 @@ article {
   article p {
     padding: .7em 0; }
   article .title {
-    font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif; }
+    font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif; }
     article .title header #header h1 a, header #header h1 article .title a, article .title a, article .title .meta .tags a, article .meta .tags .title a {
       color: #777; }
   article .meta {
@@ -160,7 +160,7 @@ article {
       margin: 0 2em;
       color: #dfd9d9; }
     article .divider header #header h1 a, header #header h1 article .divider a, article .divider .meta .tags a, article .meta .tags .divider a, article .divider a {
-      font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+      font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
       font-size: 1.5em;
       margin: 0 2em; }
       article .divider header #header h1 a i, header #header h1 article .divider a i, article .divider .meta .tags a i, article .meta .tags .divider a i, article .divider a i {
@@ -193,7 +193,7 @@ footer {
   margin: 0 auto;
   display: block;
   color: #909090;
-  font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+  font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
   font-size: .9em;
   text-align: center;
   margin: 1em auto; }
