@@ -53,6 +53,7 @@ header {
   @include page;
   text-align: justify;
   margin: 3em auto;
+  line-height: 1.5em;
   &:after { content: ''; width: 100%; display: inline-block; }
 
   #header {
@@ -73,6 +74,7 @@ header {
     top: 1em;
     span { margin: .5em; }
     a {
+      font-size: 1.25em;
       font-family: #{$label-font}; color: #ccc;
     }
   }
