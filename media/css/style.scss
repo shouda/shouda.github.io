@@ -23,7 +23,7 @@ $background-color: #e8e4e4;
 @mixin page($width: $page-width) { width: #{$width}; margin: 0 auto; }
 
 * { margin: 0; padding: 0; }
-body { font-size: 18px; font-family: #{$font}; color: #555; background-color: $background-color; }
+body { margin: 0 auto; font-size: 18px; font-family: #{$font}; color: #555; background-color: $background-color; }
 @media screen and (min-width: 768px) {
     body { width: 720px; }
 }

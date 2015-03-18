@@ -16,6 +16,7 @@
   padding: 0; }
 
 body {
+  margin: 0 auto;
   font-size: 18px;
   font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
   color: #555;
