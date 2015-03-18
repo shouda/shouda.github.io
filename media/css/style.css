@@ -22,11 +22,11 @@ body {
   color: #555;
   background-color: #e8e4e4; }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 889px) {
   body {
     width: 90%;
     max-width: 800px; } }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 888px) {
   body {
     width: 90%; } }
 ul {

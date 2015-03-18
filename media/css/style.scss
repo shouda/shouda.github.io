@@ -24,10 +24,10 @@ $background-color: #e8e4e4;
 
 * { margin: 0; padding: 0; }
 body { margin: 0 auto; font-size: 18px; font-family: #{$font}; color: #555; background-color: $background-color; }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 889px) {
     body { width: 90%; max-width: 800px; }
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 888px) {
     body { width: 90%; }
 }
 ul {
