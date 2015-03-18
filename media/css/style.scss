@@ -43,7 +43,7 @@ hr { width: 4em; border: none; border-top: 1px dashed #d0d0d0; border-bottom: 1p
 ::selection { color: #eee; background-color: #333; }
 a { text-decoration: none; color: #008080; &:hover { color: lighten(#008080, 10%); }; }
 strong { color: #804000; }
-blockquote { background-color: #eee; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #c9c9c9 !important; border-color: #c9c9c9 !important; font-size: 16px; line-height: 1.6; display: block; overflow: auto; }
+blockquote { background-color: #eee; padding: .5em 1em .5em 1.25em; border-left: 5px solid #c9c9c9 !important; border-color: #c9c9c9 !important; font-size: 16px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
 code { background-color: #eee; padding: 2px 5px; border: 1px dashed #c9c9c9; font-family: #{$monospace}; }
 h1, h2 { font-size: 1.5em; }
