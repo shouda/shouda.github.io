@@ -46,14 +46,14 @@ strong { color: #804000; }
 blockquote { background-color: #eee; padding: 0.5em 1em 0.5em 1.25em; border-left: 5px solid #c9c9c9 !important; border-color: #c9c9c9 !important; font-size: 16px; line-height: 1.6; display: block; overflow: auto; }
 pre code { @extend blockquote; }
 code { background-color: #eee; padding: 2px 5px; border: 1px dashed #c9c9c9; font-family: #{$monospace}; }
-h1, h2 { font-size: 1.4em; }
+h1, h2 { font-size: 1.5em; }
 time { font-family: #{$monospace}; }
 
 header {
   @include page;
   text-align: justify;
   margin: 3em auto;
-  line-height: 1.5em;
+  line-height: 2em;
   &:after { content: ''; width: 100%; display: inline-block; }
 
   #header {
