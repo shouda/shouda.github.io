@@ -25,9 +25,9 @@ body {
 @media screen and (min-width: 1000px) {
   body {
     width: 800px; } }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 999px) {
   body {
-    width: 320px; } }
+    width: 90%; } }
 ul {
   list-style-position: inside; }
   ul li {
