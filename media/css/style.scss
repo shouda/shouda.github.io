@@ -47,7 +47,7 @@ header {
   @include page;
   text-align: justify;
   margin: 3em auto;
-  &:after { content: ''; width: 100%; display: inline-block; }
+  //&:after { content: ''; width: 100%; display: inline-block; }
 
   #header {
     display: inline-block;

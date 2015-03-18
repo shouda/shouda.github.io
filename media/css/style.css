@@ -81,10 +81,6 @@ header {
   margin: 0 auto;
   text-align: justify;
   margin: 3em auto; }
-  header:after {
-    content: '';
-    width: 100%;
-    display: inline-block; }
   header #header {
     display: inline-block;
     position: relative;
