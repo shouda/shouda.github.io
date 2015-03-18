@@ -28,7 +28,7 @@ body { font-size: 18px; font-family: #{$font}; color: #555; background-color: $b
     body { width: 720px; }
 }
 @media screen and (max-width: 768px) {
-    body { width: 600px; }
+    body { width: 320px; }
 }
 ul {
   list-style-position: inside;
