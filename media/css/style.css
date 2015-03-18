@@ -107,7 +107,7 @@ header {
     position: relative;
     top: 1em; }
     header nav span {
-      margin: .5em .6em .5em .6em; }
+      margin: .5em; }
     header nav a, header nav #header h1 a, header #header h1 nav a, header nav article .title a, article .title header nav a, header nav article .meta .tags a, article .meta .tags header nav a, header nav article .divider a, article .divider header nav a {
       font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif;
       color: #ccc; }
