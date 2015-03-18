@@ -124,6 +124,7 @@ article {
 
     a { @extend a;
       font-family: #{$label-font};
+      font-size: 1.5em;
       margin: 0 2em;
       i { color: #c4baba; margin: 0; &:hover { color: #bb2222 !important; } }
     }

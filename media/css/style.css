@@ -161,6 +161,7 @@ article {
       color: #dfd9d9; }
     article .divider header #header h1 a, header #header h1 article .divider a, article .divider .meta .tags a, article .meta .tags .divider a, article .divider a {
       font-family: telexregular, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+      font-size: 1.5em;
       margin: 0 2em; }
       article .divider header #header h1 a i, header #header h1 article .divider a i, article .divider .meta .tags a i, article .meta .tags .divider a i, article .divider a i {
         color: #c4baba;
