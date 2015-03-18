@@ -21,6 +21,12 @@ body {
   color: #555;
   background-color: #e8e4e4; }
 
+@media screen and (min-width: 768px) {
+  body {
+    width: 720px; } }
+@media screen and (max-width: 768px) {
+  body {
+    width: 600px; } }
 ul {
   list-style-position: inside; }
   ul li {
