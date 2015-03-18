@@ -14,13 +14,13 @@
 
 $font-name: "telexregular";
 $mono-font-name: "Ubuntu";
-$page-width: 800;
+$page-width: 100%;
 $font: $font-name, "Heiti TC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
 $monospace: $mono-font-name, monospace;
 $label-font: $font-name, "Heiti TC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
 $background-color: #e8e4e4;
 
-@mixin page($width: $page-width) { width: #{$width}px; margin: 0 auto; }
+@mixin page($width: $page-width) { width: #{$width}; margin: 0 auto; }
 
 * { margin: 0; padding: 0; }
 body { font-size: 18px; font-family: #{$font}; color: #555; background-color: $background-color; }
@@ -113,7 +113,7 @@ article {
 
   .post {
     margin-top: 2em;
-    img { max-width: #{$page-width}px; display: block; margin: .5em auto; }
+    img { max-width: #{$page-width}; display: block; margin: .5em auto; }
   }
 
   .comment { margin: 3em 0; }

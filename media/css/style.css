@@ -77,7 +77,7 @@ time {
   font-family: Ubuntu, monospace; }
 
 header {
-  width: 800px;
+  width: 100%;
   margin: 0 auto;
   text-align: justify;
   margin: 3em auto; }
@@ -105,7 +105,7 @@ header {
       color: #ccc; }
 
 #content {
-  width: 800px;
+  width: 100%;
   margin: 0 auto;
   line-height: 2em; }
   #content .main-listing {
@@ -149,7 +149,7 @@ article {
   article .post {
     margin-top: 2em; }
     article .post img {
-      max-width: 800px;
+      max-width: 100%;
       display: block;
       margin: .5em auto; }
   article .comment {
@@ -189,7 +189,7 @@ article {
     margin-left: 1%; }
 
 footer {
-  width: 800px;
+  width: 100%;
   margin: 0 auto;
   display: block;
   color: #909090;
