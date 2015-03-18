@@ -22,9 +22,9 @@ body {
   color: #555;
   background-color: #e8e4e4; }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1000px) {
   body {
-    width: 720px; } }
+    width: 800px; } }
 @media screen and (max-width: 768px) {
   body {
     width: 320px; } }

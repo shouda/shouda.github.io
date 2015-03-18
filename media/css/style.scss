@@ -24,8 +24,8 @@ $background-color: #e8e4e4;
 
 * { margin: 0; padding: 0; }
 body { margin: 0 auto; font-size: 18px; font-family: #{$font}; color: #555; background-color: $background-color; }
-@media screen and (min-width: 768px) {
-    body { width: 720px; }
+@media screen and (min-width: 1000px) {
+    body { width: 800px; }
 }
 @media screen and (max-width: 768px) {
     body { width: 320px; }
