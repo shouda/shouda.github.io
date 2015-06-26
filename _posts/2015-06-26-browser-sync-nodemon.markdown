@@ -31,7 +31,7 @@ gulp.task('nodemon', function (cb) {
 
   var called = false;
   return nodemon({
-    execMap: { js: 'node --harmony' },
+    nodeArgs: ['--harmony'],
     script: 'server.js',
     watch: ['server.js', 'server/**/*.*']
   })
