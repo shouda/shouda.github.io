@@ -16,3 +16,6 @@ tags:
 grunt, gulp, bower 這些工具都不用了，npm + webpack 就搞定。
 
 sass, scss 和 bootstrap 也一起拋棄掉，選了 [Basscss](http://www.basscss.com/) 和 [cssnext](http://cssnext.io/)，實際用下來發覺這種小型模組化的 css 很適合用在 react，除非必要，不太需要去重新創造新的 class，有些微小的改動，善用 react 的 [Inline Styles](https://facebook.github.io/react/tips/inline-styles.html) 會更直覺，少數真的會重用的樣式再去寫 class 就好。
+
+ref:
+* [Solved by Flexbox — Cleaner, hack-free CSS](http://philipwalton.github.io/solved-by-flexbox/)
