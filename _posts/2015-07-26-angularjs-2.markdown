@@ -1,0 +1,16 @@
+---
+title:  "AngularJS 2 preview"
+layout: post
+tags:
+    - angularjs
+    - javascript
+
+---
+
+* [AngularJS2.0教程（一）快速上手](http://www.angularjs.cn/A1eG)
+* [Why will Angular 2 rock?](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
+* [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
+* [The Road to Angular 2.0 part 1: Template Syntax](https://blog.42.nl/articles/the-road-to-angular-2-0-pt1-template-syntax/)
+* [Angular 2.0 examples](http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples)
+
+看起來果然乾淨簡化許多，幾乎變成另一個新框架了。
