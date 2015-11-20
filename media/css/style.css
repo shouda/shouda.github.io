@@ -33,12 +33,13 @@ p { margin-top: 2em }
 
 strong { color: #804000; }
 
+pre { margig: 0; overflow: auto; }
 blockquote, pre code {
   margin: 0;
   background-color: #eee;
   padding: 0 1em .5em 1em;
   border-left: 5px solid #c9c9c9 !important;
-  border-color: #c9c9c9 !important;
+  /*border-color: #c9c9c9 !important;*/
   font-size: 1em;
   line-height: 1.5em;
   display: block;
@@ -47,7 +48,7 @@ blockquote, pre code {
 code {
   background-color: #eee;
   padding: 2px 5px;
-  border: 1px dashed #c9c9c9;
+  /*border: 1px dashed #c9c9c9;*/
   font-family: Ubuntu, monospace;
 }
 
