@@ -36,6 +36,7 @@ strong { color: #804000; }
 pre { overflow: auto; }
 blockquote, pre code {
   background-color: #eee;
+  margin: 0;
   padding: 0 1em .5em 1em;
   border-left: 5px solid #c9c9c9 !important;
   font-size: 1em;
