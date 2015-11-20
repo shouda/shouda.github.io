@@ -3,33 +3,33 @@ layout: default
 ---
 
 <article>
-  <section class="title">
-    <h2><i class="fa fa-bookmark-o"></i> {{ page.title }}</h2>
+  <section class="line-h15 link-title">
+    <span class="h2"><i class="fa fa-bookmark-o"></i> {{ page.title }}</span>
   </section>
-  <section class="meta">
-  <span class="time">
-    <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
-  </span>
-  {% if page.tags %}
-  <span class="tags">
-    {% for tag in page.tags %}
-    <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
-    {% endfor %}
-  </span>
-  {% endif %}
-  </section>
-  <section class="post">
-  {{ content }}
-  </section>
-  <div class="divider">
+  <section class="px1 h5 line-h15">
     <span>
+      <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+    </span>
+    {% if page.tags %}
+    <span class="link-title">
+      {% for tag in page.tags %}
+      <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
+    </span>
+    {% endif %}
+  </section>
+  <section class="myn2 px2 h4">
+    {{ content }}
+  </section>
+  <div class="my4 h1 center color-divider link-divider divider">
+    <span class="p4">
     {% if page.previous %}
     <a href="{{ page.previous.url }}"><i class="fa fa-chevron-left"></i></a>
     {% else %}
     <i class="fa fa-circle"></i>
     {% endif %}
     </span>
-    <span>
+    <span class="p4">
     {% if page.next %}
     <a href="{{ page.next.url }}"><i class="fa fa-chevron-right"></i></a>
     {% else %}
