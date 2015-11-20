@@ -1,6 +1,7 @@
 .DS_Store
-_site/
 .bundle/
 .sass-cache/
+_site/
 Gemfile
 Gemfile.lock
+jekyll_start.sh
