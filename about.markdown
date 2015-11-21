@@ -13,6 +13,6 @@ who involved in
 
 or follow
 
-> [@shouda](https://twitter.com/#!/shouda)
+> [@shouda](https://twitter.com/shouda)
 
 to reach me
