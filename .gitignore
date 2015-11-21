@@ -5,5 +5,4 @@ _site/
 node_modules/
 Gemfile
 Gemfile.lock
-jekyll_start.sh
 npm-debug.log
