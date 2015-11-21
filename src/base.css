@@ -210,6 +210,8 @@ time { font-family: var(--monospace-font-family); }
 .myn2 { margin-top: 2em; margin-bottom: 2em; }
 .myn3 { margin-top: 3em; margin-bottom: 3em; }
 
+.pr2 { padding-right: 2em; }
+
 .line-h15 { line-height: 1.5; }
 
 .color-title { color: var(--my-title-color); }
