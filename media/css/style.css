@@ -60,6 +60,8 @@ img {
 .myn2 { margin-top: 2em; margin-bottom: 2em; }
 .myn3 { margin-top: 3em; margin-bottom: 3em; }
 
+.pr2 { padding-right: 2em; }
+
 .font-normal { font-family: telexregular, Heiti TC, Hiragino Sans GB, Microsoft JhengHei, Microsoft YaHei, sans-serif; }
 time { font-family: Ubuntu, monospace; }
 
@@ -79,7 +81,7 @@ time { font-family: Ubuntu, monospace; }
 .link-header a { color: #635a5a; }
 .link-title a { color: #afafaf; }
 .link-divider a { color: #8b8b8b; }
-.link-list a { padding: .2em 0 .2em 2em; }
+.link-list a { padding: .2em 0 .2em 0; }
 .link-list a:hover { background-color: #8b8b8b; }
 .link-footer a { color: #635f5a; }
 .link-footer a:hover { color: #afafaf; }

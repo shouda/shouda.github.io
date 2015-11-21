@@ -7,7 +7,7 @@ layout: default
     {% for post in site.posts limit: 1 %}
     <article>
       <section class="line-h15 link-title">
-        <span class="h2"><a href="{{ post.url }}"><i class="fa fa-bookmark-o"></i> {{ post.title }}</a></span>
+        <span class="h2"><a href="{{ post.url }}">{{ post.title }}</a></span>
       </section>
       <section class="px1 h5 line-h15 color-title">
         <span>
@@ -44,8 +44,14 @@ layout: default
     {% break %}
     {% endif %}
     <li class="ml1 line-h15 color-list link-list list-none">
-      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <div class="clearfix">
+        <div class="col pr2">
+          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+        </div>
+        <div class="col col-9">
+          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </div>
+      </div>
     </li>
     {% endfor %}
     <li class="list-none list-seperator"><a href="/archive.html">Posts Archive</a></li>

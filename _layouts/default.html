@@ -22,17 +22,17 @@
   <body class="mx-auto color-bg">
     <!-- main -->
     <div id="main" role="main" class="h3 font-normal color-normal link-normal line-h20">
-      <header class="mt4 link-header">
+      <header class="mt2 link-header">
         <div id="header" class="inline-block relative">
           <span class="h1"><a title="{{ site.name }}" class="" href="/"><i class="fa fa-github"></i> {{ site.name }}</a></span>
         </div>
-        <nav class="inline-block right">
+        <nav class="mr2 inline-block right">
           {% for nav in site.navigations %}
-          <span class="p2 h1"><a title="{{ nav.title }}" href="{{ nav.href }}"><i class="{{ nav.class }}"></i></a></span>
+          <span class="p2 h2"><a title="{{ nav.title }}" href="{{ nav.href }}"><i class="{{ nav.class }}"></i></a></span>
           {% endfor %}
         </nav>
       </header>
-      <div id="content" class="mt3">
+      <div id="content" class="mt4">
         {{ content }}
       </div>
       <footer class="mx-auto myn2 center h6 color-footer link-footer">
