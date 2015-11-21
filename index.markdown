@@ -9,7 +9,7 @@ layout: default
       <section class="line-h15 link-title">
         <span class="h2"><a href="{{ post.url }}"><i class="fa fa-bookmark-o"></i> {{ post.title }}</a></span>
       </section>
-      <section class="px1 h5 line-h15">
+      <section class="px1 h5 line-h15 color-title">
         <span>
           <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
         </span>
@@ -36,7 +36,7 @@ layout: default
     {% endfor %}
   </div>
   <ul class="myn2 h4 line-h15">
-    <li class="list-none list-seperator">Happend earlier this year</li>
+    <li class="list-none list-seperator color-strong">Happend earlier this year</li>
     {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
     {% for post in site.posts offset:1 %}
     {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}

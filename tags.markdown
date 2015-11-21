@@ -11,7 +11,7 @@ layout: page
 
 <ul class="myn2 h4 line-h15">
   {% for tag in site.tags %}
-  <li class="list-none list-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <li class="list-none list-seperator color-strong" id="{{ tag[0] }}">{{ tag[0] }}</li>
   {% for post in tag[1] %}
   <li class="ml1 line-h15 color-list link-list list-none">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
