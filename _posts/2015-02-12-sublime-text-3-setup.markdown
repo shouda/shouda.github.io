@@ -21,15 +21,11 @@ tags:
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)
 * [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
-keybind:
-
 ```javascript
+// keybind:
 { "keys": ["ctrl+shift+g"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} }
-```
 
-setting:
-
-```javascript
+// setting:
 {
     "parser": "github",
     "enabled_parsers": ["github"],
@@ -47,9 +43,8 @@ setting:
 * [Ionic Framework Snippets](https://packagecontrol.io/packages/Ionic%20Framework%20Snippets)
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
 
-setting:
-
 ```javascript
+// setting:
 {
     "env":
     {

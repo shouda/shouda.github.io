@@ -185,9 +185,9 @@
   body { width: 90%; }
 }
 
-ul { margin: 0; padding: 0; list-style-position: inside; }
+ul { margin: .5em 0 .5em 0; padding: 0; list-style-position: inside; }
 ul li { padding: 0; line-height: 1.5em; list-style-type: circle; }
-ol { margin: 0; padding: 0; list-style-position: inside; }
+ol { margin: .5em 0 .5em 0; padding: 0; list-style-position: inside; }
 ol li { padding: 0; line-height: 1.5em; }
 
 hr {
@@ -210,7 +210,8 @@ blockquote, pre code {
   display: block;
   overflow: auto;
 }
-blockquote p { margin: 0; }
+blockquote { margin: .5em 0 .5em 0; }
+blockquote p, ul, ol { margin: 0; }
 code { padding: 2px 5px; }
 
 time { font-family: var(--monospace-font-family); }
