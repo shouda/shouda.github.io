@@ -156,19 +156,26 @@
   --monospace-font-family: Ubuntu, 'Source Code Pro', Consolas, monospace;
 
   --line-height: 1.75;
+  --link-hover-text-decoration: none;
   --paragraph-margin-top: 1.75rem;
   --paragraph-margin-bottom: 1.75rem;
 
-  --body-color: #cacaca;
-  --body-background-color: #777;
-  --pre-background-color: #8b8b8b;
+  --my-color-background: #737373;
+  --my-color-background-lighter: #949495;
+  --my-color-text: #bbbcbf;
+  --my-color-text-lighter: #dcdddd;
+  --my-color-title: #5c484d;
+  --my-color-strong: var(--my-color-title);
+  --my-color-link: #48493f;
+  --my-color-link-hover: #858954;
 
-  --link-color: #403232;
-  --link-hover-color: #635f5a;
-  --link-hover-text-decoration: none;
+  --body-color: var(--my-color-text);
+  --body-background-color: var(--my-color-background);
+  --pre-background-color: var(--my-color-background-lighter);
 
-  --my-title-color: #afafaf;
-  --my-strong-color: #524941;
+  --link-color: var(--my-color-link);
+  --link-hover-color: var(--my-color-link-hover);
+
 }
 
 @media screen and (min-width: 889px) {
@@ -186,19 +193,19 @@ ol li { padding: .2em 0; line-height: 1.5em; }
 hr {
   width: 80%;
   border: none;
-  border-top: 2px dashed var(--pre-background-color);
-  border-bottom: 2px dashed var(--pre-background-color);
+  border-top: 2px dashed var(--my-color-background-lighter);
+  border-bottom: 2px dashed var(--my-color-background-lighter);
 }
 
-strong { color: var(--my-strong-color); }
+strong { color: var(--my-color-strong); }
 
 pre { overflow: auto; }
 blockquote, pre code {
   margin: 0;
   padding: 0 1em .5em 1em;
-  color: #dadada;
-  background-color: var(--pre-background-color);
-  border-left: 5px solid #6b6b6b !important;
+  color: var(--my-color-text-lighter);
+  background-color: var(--my-color-background-lighter);
+  border-left: 5px solid var(--my-color-link) !important;
   line-height: 1.5;
   display: block;
   overflow: auto;
@@ -214,20 +221,21 @@ time { font-family: var(--monospace-font-family); }
 
 .line-h15 { line-height: 1.5; }
 
-.color-title { color: var(--my-title-color); }
-.color-divider { color: var(--pre-background-color); }
-.color-strong { color: var(--my-strong-color); }
-.color-list { color: var(--my-title-color); }
-.color-footer { color: var(--pre-background-color); }
+.color-title { color: var(--my-color-title); }
+.color-divider { color: var(--my-color-background-lighter); }
+.color-strong { color: var(--my-color-strong); }
+.color-list { color: var(--my-color-text); }
+.color-footer { color: var(--my-color-background-lighter); }
 
-a:hover { color: var(--link-hover-color); }
-.link-header a { color: var(--link-hover-color); }
-.link-title a { color: var(--my-title-color); }
-.link-divider a { color: var(--pre-background-color); }
+a:hover { color: var(--my-color-link-hover); }
+.link-title a { color: var(--my-color-title); }
+.link-title a:hover { color: var(--my-color-link); }
+.link-divider a { color: var(--my-color-background-lighter); }
+.link-divider a:hover { color: var(--my-color-strong); }
 .link-list a { padding: .2em 0 .2em 0; }
-.link-list a:hover { background-color: var(--pre-background-color); }
-.link-footer a { color: var(--link-hover-color); }
-.link-footer a:hover { color: var(--my-title-color); }
+.link-list a:hover { color:var(--my-color-link); background-color: var(--my-color-background-lighter); }
+.link-footer a { color: var(--my-color-title); }
+.link-footer a:hover { color: var(--my-color-link); }
 
 .divider {
   position: relative;
@@ -243,7 +251,7 @@ a:hover { color: var(--link-hover-color); }
   width: 49%;
   height: 2px;
   content: '\a0';
-  background-color: var(--pre-background-color);
+  background-color: var(--my-color-background-lighter);
 }
 .divider:before {
   margin-left: -50%;
@@ -254,6 +262,6 @@ a:hover { color: var(--link-hover-color); }
 }
 
 .list-none { list-style-type: none; }
-li.list-seperator:before { padding-right: .5em; content: "⊡"; color: var(--my-title-color); }
+li.list-seperator:before { padding-right: .5em; content: "⊡"; color: var(--my-color-text); }
 
 #tag_cloud { margin-bottom: 1em; }
