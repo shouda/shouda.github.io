@@ -36,23 +36,23 @@ layout: default
     {% endfor %}
   </div>
   <ul class="myn2 h4 line-h15">
-    <li class="list-none list-seperator color-strong">Happend earlier this year</li>
     {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
     {% for post in site.posts offset:1 %}
-    {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
-    {% if year != y %}
-    {% break %}
-    {% endif %}
-    <li class="ml1 line-h15 color-list link-list list-none">
-      <div class="clearfix">
-        <div class="col pr2">
-          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+      {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
+      {% if year != y %}
+        {% break %}
+      {% endif %}
+      <li class="list-none list-seperator color-strong">Happend earlier this year</li>
+      <li class="ml1 line-h15 color-list link-list list-none">
+        <div class="clearfix">
+          <div class="col pr2">
+            <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+          </div>
+          <div class="col col-9">
+            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          </div>
         </div>
-        <div class="col col-9">
-          <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-        </div>
-      </div>
-    </li>
+      </li>
     {% endfor %}
     <li class="list-none list-seperator"><a href="/archive.html">Posts Archive</a></li>
   </ul>
