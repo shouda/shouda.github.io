@@ -96,7 +96,7 @@ body {
 }
 
 a {
-  color: #48493f;
+  color: #9da354;
   text-decoration: none;
 }
 
@@ -663,7 +663,7 @@ blockquote, pre code {
   padding: .5em 1em .5em 1em;
   color: #dcdddd;
   background-color: #949495;
-  border-left: 5px solid #48493f !important;
+  border-left: 5px solid #9da354 !important;
   line-height: 1.5;
   display: block;
   overflow: auto;
@@ -687,15 +687,15 @@ time { font-family: Ubuntu, 'Source Code Pro', Consolas, monospace; }
 .color-list { color: #bbbcbf; }
 .color-footer { color: #949495; }
 
-a:hover { color: #858954; }
+a:hover { color: #48493f; }
 .link-title a { color: #5c484d; }
-.link-title a:hover { color: #48493f; }
+.link-title a:hover { color: #9da354; }
 .link-divider a { color: #949495; }
 .link-divider a:hover { color: #5c484d; }
 .link-list a { padding: .2em 0 .2em 0; }
-.link-list a:hover { color: #48493f; background-color: #949495; }
+.link-list a:hover { color: #9da354; background-color: #949495; }
 .link-footer a { color: #5c484d; }
-.link-footer a:hover { color: #48493f; }
+.link-footer a:hover { color: #9da354; }
 
 .divider {
   position: relative;

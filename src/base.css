@@ -166,8 +166,8 @@
   --my-color-text-lighter: #dcdddd;
   --my-color-title: #5c484d;
   --my-color-strong: var(--my-color-title);
-  --my-color-link: #48493f;
-  --my-color-link-hover: #858954;
+  --my-color-link: #9da354;
+  --my-color-link-hover: #48493f;
 
   --body-color: var(--my-color-text);
   --body-background-color: var(--my-color-background);
