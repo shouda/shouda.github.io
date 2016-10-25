@@ -17,4 +17,5 @@ tags:
 名字有 import 的相關套件升級常常出問題，看到有關 import css 的說法，先備忘，以後再研究：
 
 * [webpack中关于样式的处理](https://github.com/zhengweikeng/blog/issues/9)
+
 > 其实我们是不推荐使用@import的，心细的童鞋可以看到最后生成的样式文件有样式是重复的。所以一般我们应该是在js中使用require来引入样式文件。
