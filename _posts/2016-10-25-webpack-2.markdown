@@ -12,6 +12,8 @@ tags:
 
 [試著把之前的程式升級上去](https://github.com/shouda/color-hwb-viewer/commit/a9a37ecdddde08ea8d5f7aee954de4c76a485d60)，改動沒想像中大，主要是名字的改動。
 
+webpack 2 build 出來的檔案大小，跟 webpack 1 相比，app.js 和 vendors.js 分別由 51K, 533K 變成 38K, 367K，減少了 25% 和 31%，還算可以。
+
 最大的坑出現在 postcss 上面，[postcss-import 最新版本有 bug](https://github.com/postcss/postcss-import/issues/220)，必須降版本才能動，害我以為問題出在升級 webpack 2 上面，其實並不是。
 
 名字有 import 的相關套件升級常常出問題，看到有關 import css 的說法，先備忘，以後再研究：
