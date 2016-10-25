@@ -1,0 +1,19 @@
+---
+title:  "Webpack 2"
+layout: post
+tags:
+    - reactjs
+    - javascript
+
+---
+
+* [Migrating to Webpack 2](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/)
+* [webpack@2.1.0-beta.25 一些配置上的改动](http://www.mmxiaowu.com/article/66)
+
+[試著把之前的程式升級上去](https://github.com/shouda/color-hwb-viewer/commit/a9a37ecdddde08ea8d5f7aee954de4c76a485d60)，改動沒想像中大，主要是名字的改動。
+
+最大的坑出現在 postcss 上面，[postcss-import 最新版本有 bug](https://github.com/postcss/postcss-import/issues/220)，必須降版本才能動，害我以為問題出在升級 webpack 2 上面，其實並不是。
+
+名字有 import 的相關套件升級常常出問題，看到有關 import css 的說法，先備忘，以後再研究：
+* [webpack中关于样式的处理](https://github.com/zhengweikeng/blog/issues/9)
+> 其实我们是不推荐使用@import的，心细的童鞋可以看到最后生成的样式文件有样式是重复的。所以一般我们应该是在js中使用require来引入样式文件。
