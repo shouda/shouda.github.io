@@ -1,0 +1,248 @@
+#EXTM3U
+
+## 119.81.124.89, 59.124.75.138, 59.124.75.150
+#EXTINF:-1 group-title="", 東森超視
+rtmp://119.81.124.89/sat/tv331
+#EXTINF:-1 group-title="", TVBS歡樂台
+rtmp://119.81.124.89/sat/tv421
+#EXTINF:-1 group-title="", 緯來育樂台
+rtmp://119.81.124.89/sat/tv701
+#EXTINF:-1 group-title="", 緯來體育台
+rtmp://119.81.124.89/sat/tv721
+#EXTINF:-1 group-title="", ELEVEN 1
+rtmp://119.81.124.89/sat/tv731
+#EXTINF:-1 group-title="", ELEVEN 2
+rtmp://119.81.124.89/sat/tv741
+#EXTINF:-1 group-title="", momo綜合台
+rtmp://119.81.124.89/sat/tv761
+#EXTINF:-1 group-title="", 緯來日本台
+rtmp://119.81.124.89/sat/tv771
+#EXTINF:-1 group-title="", ELEVEN + / 智林體育台
+rtmp://119.81.124.89/sat/md011
+#EXTINF:-1 group-title="", 博斯魅力 / 博斯網球
+rtmp://119.81.124.89/sat/md021
+#EXTINF:-1 group-title="", 愛爾達體育 1 台
+rtmp://119.81.124.89/sat/md031
+#EXTINF:-1 group-title="", 愛爾達體育 2 台
+rtmp://119.81.124.89/sat/md041
+#EXTINF:-1 group-title="", 愛爾達體育 3 台
+rtmp://119.81.124.89/sat/md051
+#EXTINF:-1 group-title="", CCTV 5
+rtmp://119.81.124.89/sat/cn021
+#EXTINF:-1 group-title="", CCTV 5+
+rtmp://119.81.124.89/sat/cn051
+#EXTINF:-1 group-title="", 有線18台
+rtmp://119.81.124.89/sat/hk041
+
+## www.336699.live
+#EXTINF:-1 group-title="", 靖天卡通台
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖洋戲劇台
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 采昌影劇台
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="", GINX Esports TV
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖天歡樂台
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖天映畫台
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖天戲劇台
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖天育樂台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 靖天國際台
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 愛爾達娛樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="", TRACE SPORT STARS
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="", TRACE URBAN
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="", mezzo LIVE
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 智林體育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="", 滾動力rollor
+http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 經典電影台
+http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 經典卡通台
+http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 影迷紀實台
+http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 精選動漫台
+http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", Lifetime
+http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", Live互動英語
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", Global Trekker
+http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 愛爾達生活旅遊
+http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", LUXE TV
+http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", Style TV
+http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", 中天美食旅遊
+http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1 group-title="", MCE
+http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+
+## 23.237.10.66
+#EXTINF:-1 group-title="", sportv2
+http://23.237.10.66:16180
+#EXTINF:-1 group-title="", 星衛電影
+http://23.237.10.66:16359
+#EXTINF:-1 group-title="", 中天綜合台
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="", 電視劇場
+http://23.237.10.66:16406
+#EXTINF:-1 group-title="", 翡翠華麗台
+http://23.237.10.66:16410
+
+#EXTINF:-1 group-title="", ELEVEN 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+#EXTINF:-1 group-title="", 東森電影
+http://120.84.96.89:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="", 東森洋片
+http://120.84.96.89:808/hls/33/index.m3u8
+
+#EXTINF:-1 group-title="", 東森電影
+http://107.151.203.111:2209/135/hk.php?id=dsdyt
+#EXTINF:-1 group-title="", 東森洋片
+http://107.151.203.111:2209/135/hk.php?id=dsypt
+
+## 61.221.81.93
+#EXTINF:-1 group-title="", 寰宇新聞
+http://61.221.81.93:8513/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", StarWorld
+http://61.221.81.93:8521/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 衛視電影台
+http://61.221.81.93:8523/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", Movie gold
+http://61.221.81.93:8524/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 東森幼幼
+http://61.221.81.93:8525/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 東森新聞
+http://61.221.81.93:8527/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 八大綜合
+http://61.221.81.93:8530/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 八大第一
+http://61.221.81.93:8531/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", 年代新聞
+http://61.221.81.93:8532/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", ELEVEN1
+http://61.221.81.93:8534/hls/65/807/ch843.m3u8
+#EXTINF:-1 group-title="", ELEVEN2
+http://61.221.81.93:8539/hls/65/807/ch843.m3u8
+
+#EXTINF:-1 group-title="", 三立都會台
+http://123.51.230.124:8535/.m3u8
+#EXTINF:-1 group-title="", MoMo親子
+http://123.51.230.124:8536/.m3u8
+
+## 123.51.230.108, 123.51.229.65, 60.251.33.252
+## old: 61.219.170.95, 218.32.247.100, 123.51.149.52, 59.125.122.90
+#EXTINF:-1 group-title="", Discovery
+http://123.51.230.108:18500/.m3u8
+#EXTINF:-1 group-title="", National Geographic
+http://123.51.230.108:18501/.m3u8
+#EXTINF:-1 group-title="", Star World
+http://123.51.230.108:18504/.m3u8
+#EXTINF:-1 group-title="", 緯來體育台 ✔️
+http://123.51.230.108:18509/.m3u8
+#EXTINF:-1 group-title="", 八大綜合台
+http://123.51.230.108:18517/.m3u8
+#EXTINF:-1 group-title="", 中天娛樂台
+http://123.51.230.108:18521/.m3u8
+#EXTINF:-1 group-title="", 衛視中文台
+http://123.51.230.108:18522/.m3u8
+#EXTINF:-1 group-title="", 緯來日本台
+http://123.51.230.108:18524/.m3u8
+#EXTINF:-1 group-title="", NHK ✔️
+http://123.51.230.108:18525/.m3u8
+#EXTINF:-1 group-title="", 衛視電影台
+http://123.51.230.108:18529/.m3u8
+#EXTINF:-1 group-title="", 東森戲劇 ✔️
+http://123.51.230.108:18538/.m3u8
+#EXTINF:-1 group-title="", 八大第一台 ✔️
+http://123.51.230.108:18539/.m3u8
+#EXTINF:-1 group-title="", 緯來綜合台 ✔️
+http://123.51.230.108:18540/.m3u8
+#EXTINF:-1 group-title="", 緯來育樂台 ✔️
+http://123.51.230.108:18541/.m3u8
+#EXTINF:-1 group-title="", AXN
+http://123.51.230.108:18548/.m3u8
+#EXTINF:-1 group-title="", 東森超視
+http://123.51.230.108:18555/.m3u8
+#EXTINF:-1 group-title="", 年代MUCH
+http://123.51.230.108:18558/.m3u8
+#EXTINF:-1 group-title="", 東風37 ✔️
+http://123.51.230.108:18560/.m3u8
+#EXTINF:-1 group-title="", 亞洲旅遊台
+http://123.51.230.108:18568/.m3u8
+#EXTINF:-1 group-title="", momo綜合台
+http://123.51.230.108:18576/.m3u8
+
+#EXTINF:-1 group-title="", K-POP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="", NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="", NHK World (4M)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="", NHK World (1M)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="", NHK World (1M)
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+
+## redlabmcdn.s.llnwi.net
+#EXTINF:-1 group-title="", NHK BS1 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 group-title="", NHK BSP HD
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 group-title="", BS NIPPON HD
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 group-title="", BS Asahi HD
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
+#EXTINF:-1 group-title="", BS TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1 group-title="", BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+#EXTINF:-1 group-title="", BS Fuji
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1 group-title="", BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+#EXTINF:-1 group-title="", Star 1 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:-1 group-title="", Star 2 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+#EXTINF:-1 group-title="", Jsport 2 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+#EXTINF:-1 group-title="", Jsport 3 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/playlist.m3u8
+#EXTINF:-1 group-title="", Disney Channel JP HD
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/playlist.m3u8
+#EXTINF:-1 group-title="", BS Animax HD
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+#EXTINF:-1 group-title="", Jsport 1 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+#EXTINF:-1 group-title="", NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+#EXTINF:-1 group-title="", NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+#EXTINF:-1 group-title="", Nippon TV (JOAX-DTV)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 group-title="", TV Asahi (JOEX-DTV)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 group-title="", TBS TV (JORX-DTV)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 group-title="", TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 group-title="", Fuji TV (JOCX-DTV)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 group-title="", Tokyo MX (JOMX-DTV)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
